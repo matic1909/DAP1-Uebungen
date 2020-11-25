@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e06926a7-ab05-4b65-9a1c-b940866157e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kkjAF5KGdo3WUAkbimuLzMw4pd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Uebungsblatt02" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state width="1832" height="594" key="GridCell.Tab.0.bottom" timestamp="1606255513339">
+      <screen x="0" y="40" width="3840" height="2120" />
+    </state>
+    <state width="1832" height="594" key="GridCell.Tab.0.bottom/0.40.3840.2120@0.40.3840.2120" timestamp="1606255513339" />
+    <state width="1832" height="594" key="GridCell.Tab.0.center" timestamp="1606255513339">
+      <screen x="0" y="40" width="3840" height="2120" />
+    </state>
+    <state width="1832" height="594" key="GridCell.Tab.0.center/0.40.3840.2120@0.40.3840.2120" timestamp="1606255513339" />
+    <state width="1832" height="594" key="GridCell.Tab.0.left" timestamp="1606255513338">
+      <screen x="0" y="40" width="3840" height="2120" />
+    </state>
+    <state width="1832" height="594" key="GridCell.Tab.0.left/0.40.3840.2120@0.40.3840.2120" timestamp="1606255513338" />
+    <state width="1832" height="594" key="GridCell.Tab.0.right" timestamp="1606255513339">
+      <screen x="0" y="40" width="3840" height="2120" />
+    </state>
+    <state width="1832" height="594" key="GridCell.Tab.0.right/0.40.3840.2120@0.40.3840.2120" timestamp="1606255513339" />
+    <state x="2382" y="421" width="992" height="1371" key="new project wizard" timestamp="1606255551490">
+      <screen x="0" y="40" width="3840" height="2120" />
+    </state>
+    <state x="2382" y="421" width="992" height="1371" key="new project wizard/0.40.3840.2120@0.40.3840.2120" timestamp="1606255551490" />
+    <state x="2289" y="182" key="search.everywhere.popup" timestamp="1606255069041">
+      <screen x="0" y="40" width="3840" height="2120" />
+    </state>
+    <state x="2289" y="182" key="search.everywhere.popup/0.40.3840.2120@0.40.3840.2120" timestamp="1606255069041" />
+  </component>
+</project>
