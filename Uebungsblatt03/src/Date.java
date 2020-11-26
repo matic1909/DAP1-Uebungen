@@ -1,7 +1,7 @@
 public class Date {
-    String title;
-    PointInTime pit;
-    Period p;
+    private final String title;
+    private PointInTime pit;
+    private Period p;
 
     public Date(String t, PointInTime point, Period period) {
         title = t;

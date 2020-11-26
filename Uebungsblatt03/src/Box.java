@@ -1,7 +1,7 @@
 public class Box {
-    double width;
-    double height;
-    double depth;
+    private final double width;
+    private final double height;
+    private final double depth;
 
     public Box( double w, double h, double d ) {
         width = w;
@@ -38,9 +38,7 @@ public class Box {
     }
 
     private int compareTo( Box f ) {
-        if(this.getVolumeSize() > f.getVolumeSize()) return 1;
-        if(this.getVolumeSize() == f.getVolumeSize()) return 0;
-        return -1;
+        return Double.compare(this.getVolumeSize(), f.getVolumeSize());
     }
 
     private boolean encloses( Box f ) {
@@ -52,7 +50,9 @@ public class Box {
         Box secondBox = new Box(10, 8, 11);
         System.out.println(firstBox.isCube());
         System.out.println(secondBox.isCube());
-        System.out.println(secondBox.encloses(firstBox));
+        System.out.println(secondBox.getAreaSize());
+        System.out.println(secondBox.getEdgesLength());
+        System.out.println(firstBox.encloses(secondBox));
         System.out.println(firstBox.compareTo(secondBox));
     }
 }
